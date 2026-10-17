@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![ControlNet — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 # News: A nightly version of ControlNet 1.1 is released!
 
 [ControlNet 1.1](https://github.com/lllyasviel/ControlNet-v1-1-nightly) is released. Those new models will be merged to this repo after we make sure that everything is good.
@@ -346,3 +350,7 @@ And these amazing recent projects: [InstructPix2Pix Learning to Follow Image Edi
 [Arxiv Link](https://arxiv.org/abs/2302.05543)
 
 [Supplementary Materials](https://lllyasviel.github.io/misc/202309/cnet_supp.pdf)
+
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
